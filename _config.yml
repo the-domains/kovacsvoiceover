@@ -1,6 +1,6 @@
 name: KovacsVoiceOver
 favicon: null
-layout_spectrum: 0.95092
+layout_spectrum: 1
 typography_spectrum: 0.5164907139260322
 title: Kovacs Voice Over
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#050505'
+    - '#fefbea'
+    - '#303030'
+    - '#bfaa75'
+    - '#997c44'
   brandStrength: 0.7449805659707636
   lightness: 0.16096071409992874
   saturation: 0.6875
