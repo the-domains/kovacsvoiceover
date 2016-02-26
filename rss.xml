@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[KovacsVoiceOver]]></title>
-        <description><![CDATA[KovacsVoiceOver]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Kovacs Voice Over]]></title>
+        <description><![CDATA[Kovacs Voice Over]]></description>
+        <link>https://thegrid.ai/kovacsvoiceover/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 22:30:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 17:29:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kovacsvoiceover/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home]]></title>
             <description><![CDATA[<article><h1>Home</h1><p>Narration, Commercial, and Other Genres of Voice Over Talent - Right Here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e7d061fd3302426d86774baaa1016a89396f875.jpg"></article>]]></description>
-            <link>undefined793505bf-0873-41d3-b66d-3ce398931c61/index.html</link>
+            <link>https://thegrid.ai/kovacsvoiceover/793505bf-0873-41d3-b66d-3ce398931c61/index.html</link>
             <guid isPermaLink="false">793505bf-0873-41d3-b66d-3ce398931c61</guid>
-            <pubDate>Wed, 24 Feb 2016 22:29:54 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 17:15:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
