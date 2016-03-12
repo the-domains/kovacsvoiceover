@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_3/12/16 - Becoming a Voice Over Artist Part 1: Finding Your Path"
-datePublished: '2016-03-12T21:30:41.986Z'
-dateModified: '2016-03-12T21:30:35.922Z'
+datePublished: '2016-03-12T21:32:35.767Z'
+dateModified: '2016-03-12T21:31:51.865Z'
 title: 'Becoming a Voice Over Artist Part 1: Finding Your Path'
 author: []
 sourcePath: _posts/2016-03-12-31216-becoming-a-voice-over-artist.md
