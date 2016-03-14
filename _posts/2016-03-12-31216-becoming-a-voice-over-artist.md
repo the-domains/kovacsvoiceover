@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "\_3/12/16 - Becoming a Voice Over Artist Part 1: Finding Your Path"
-datePublished: '2016-03-12T21:37:06.953Z'
-dateModified: '2016-03-12T21:37:02.405Z'
+description: "\_Becoming a Voice Over Artist Part 1: Finding Your Path"
+datePublished: '2016-03-14T21:23:55.039Z'
+dateModified: '2016-03-14T21:23:45.650Z'
 title: 'Becoming a Voice Over Artist Part 1: Finding Your Path'
 author: []
 sourcePath: _posts/2016-03-12-31216-becoming-a-voice-over-artist.md
@@ -22,5 +22,5 @@ url: 31216-becoming-a-voice-over-artist/index.html
 _type: Blurb
 
 ---
-3/12/16 - Becoming a Voice Over Artist Part 1: Finding Your Path
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc9ac4db-71d3-4757-ba99-812246d6be23.jpg)
+Becoming a Voice Over Artist Part 1: Finding Your Path
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c30d90a0-c62b-4106-97ef-0351969518ac.jpg)
