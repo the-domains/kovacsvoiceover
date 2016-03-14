@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Can I Use a USB Microphone for Voice Over?
-datePublished: '2016-03-14T20:54:07.732Z'
-dateModified: '2016-03-14T20:53:46.569Z'
+description: "That's a fantastic question, and we'll figure out if a USB microphone is appropriate for you, depending on on your situation.\_"
+datePublished: '2016-03-14T21:00:36.502Z'
+dateModified: '2016-03-14T20:59:59.179Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-14-can-i-use-a-usb-microphone-for-voice-over.md
@@ -24,6 +24,6 @@ _type: Blurb
 ---
 > Can I Use a USB Microphone for Voice Over?
 
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ec557a66e85071b6a24a11668b7a17baba3c364.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c397e9cb-6702-4eec-ac2d-707f014f2e01.jpg)
 
 That's a fantastic question, and we'll figure out if a USB microphone is appropriate for you, depending on on your situation.
